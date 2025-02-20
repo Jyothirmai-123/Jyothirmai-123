@@ -27,6 +27,11 @@ With over 250+ DSA problems solved on platforms like Leetcode and CodeChef as a 
   <a href="https://www.hackerrank.com/jyothirmai_123?h_r=internal-search&hr_r=1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
+## 👀 Profile Views:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Jyothirmai-123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🚀 Languages and Tools:
@@ -36,11 +41,6 @@ With over 250+ DSA problems solved on platforms like Leetcode and CodeChef as a 
 </p>
 
 ---
-
-## 👀 Profile Views:
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Jyothirmai-123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ## 📌 Most Used Languages:
 
