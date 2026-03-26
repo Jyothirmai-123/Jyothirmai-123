@@ -37,7 +37,7 @@ With over 250+ DSA problems solved on platforms like Leetcode and CodeChef as a 
 ## 🚀 Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bigdata,hadoop,hive,pyspark,autosys,kafka,databricks,python,java,c,html,css,js,react,php,nodejs,express,mysql,wordpress,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=hadoop,hive,pyspark,ibmdatastage,autosys,kafka,databricks,python,java,c,html,css,js,react,php,nodejs,express,mysql,wordpress,git,github,figma,vscode" />
 </p>
 
 ---
