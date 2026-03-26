@@ -37,10 +37,24 @@ With over 250+ DSA problems solved on platforms like Leetcode and CodeChef as a 
 ## 🚀 Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=hadoop,hive,pyspark,ibmdatastage,autosys,kafka,databricks,python,java,c,html,css,js,react,php,nodejs,express,mysql,wordpress,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,php,nodejs,express,mysql,wordpress,git,github,figma,vscode" />
 </p>
 
 ---
+
+## 🛠️ Data Engineering & Tools:
+
+![Hadoop](https://img.shields.io/badge/Hadoop-yellow?logo=apachehadoop)
+![Hive](https://img.shields.io/badge/Hive-orange?logo=apachehive)
+![PySpark](https://img.shields.io/badge/PySpark-red?logo=apachespark)
+![Kafka](https://img.shields.io/badge/Kafka-black?logo=apachekafka)
+![Databricks](https://img.shields.io/badge/Databricks-red?logo=databricks)
+
+![IBM DataStage](https://img.shields.io/badge/IBM%20DataStage-blue)
+![AutoSys](https://img.shields.io/badge/AutoSys-grey)
+
+---
+
 
 ## 📌 Most Used Languages:
 
