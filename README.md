@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jyothirmai Vanaparthi</h1>
-<h3 align="center">A passionate Data Engineer</h3>
+<h3 align="center">Data Engineer • Software Engineer • Problem Solver</h3>
 
 <!-- About Me -->
 <p align="left">
-I am a dedicated Software Engineer with a passion for solving complex problems and delivering quality solutions. Currently working as a Data Engineer using IBM DataStage to design and develop ETL jobs, AutoSys to schedule and run workflows, and Hadoop, Hive, and SQL for data processing and management in distributed systems.
+With a background in Computer Science, I work as a Data Engineer while also leveraging my skills in Software Engineering to solve complex and scalable problems.
+  
+Currently working as a Data Engineer using IBM DataStage to design and develop ETL jobs, AutoSys to schedule and run workflows, and Hadoop, Hive, and SQL for data processing and management in distributed systems.
 
 Additionally, my achievements as a top finalist in Walmart CodeHers 2024 and winner of the WebNinjaz Innovation Challenge showcase my commitment to innovation and excellence.
 
