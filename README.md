@@ -50,6 +50,11 @@ With over 250+ DSA problems solved on platforms like Leetcode and CodeChef as a 
 ![Kafka](https://img.shields.io/badge/Kafka-black?logo=apachekafka)
 ![Databricks](https://img.shields.io/badge/Databricks-red?logo=databricks)
 
+![Airflow](https://img.shields.io/badge/Airflow-teal?logo=apacheairflow)
+![YARN](https://img.shields.io/badge/YARN-lightgrey?logo=apachehadoop)
+![HBase](https://img.shields.io/badge/HBase-darkgreen?logo=apachehbase)
+![Spark SQL](https://img.shields.io/badge/Spark%20SQL-orange?logo=apachespark)
+
 ![IBM DataStage](https://img.shields.io/badge/IBM%20DataStage-blue)
 ![AutoSys](https://img.shields.io/badge/AutoSys-grey)
 
