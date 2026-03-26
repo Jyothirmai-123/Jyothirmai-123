@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jyothirmai Vanaparthi</h1>
-<h3 align="center">A passionate Software Engineer interested in Web Development, and Problem Solving</h3>
+<h3 align="center">A passionate Data Engineer</h3>
 
 <!-- About Me -->
 <p align="left">
-I am a dedicated Software Engineer with a passion for solving complex problems and delivering quality solutions. Currently, I am enhancing my expertise as a Web Developer Intern at IC Solutions, where I apply my knowledge across a wide range of technologies to develop efficient websites.
+I am a dedicated Software Engineer with a passion for solving complex problems and delivering quality solutions. Currently working as a Data Engineer using IBM DataStage to design and develop ETL jobs, AutoSys to schedule and run workflows, and Hadoop, Hive, and SQL for data processing and management in distributed systems.
 
 Additionally, my achievements as a top finalist in Walmart CodeHers 2024 and winner of the WebNinjaz Innovation Challenge showcase my commitment to innovation and excellence.
 
-With over 250+ DSA problems solved on platforms like Leetcode and CodeChef as a Computer Science graduate, I have developed strong analytical and problem-solving skills. I have gained hands-on experience in Full Stack Development, working with technologies such as HTML, CSS, JavaScript, PHP, React, Node.js, and Express.js. This diverse technical skill set allows me to approach challenges with versatility and creativity. 
+With over 250+ DSA problems solved on platforms like Leetcode and CodeChef as a Computer Science graduate, I have developed strong analytical and problem solving skills. I have gained hands on experience in Full Stack Development, which enables me to approach technical challenges with versatility and a structured problem solving mindset.
 </p>
 
 <!-- Video -->
@@ -37,7 +37,7 @@ With over 250+ DSA problems solved on platforms like Leetcode and CodeChef as a 
 ## 🚀 Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,php,nodejs,express,mysql,wordpress,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=bigdata,ibmdatastage,hadoop,hive,pyspark,autosys, kafka,databricks,python,java,c,html,css,js,react,php,nodejs,express,mysql,wordpress,git,github,figma,vscode" />
 </p>
 
 ---
